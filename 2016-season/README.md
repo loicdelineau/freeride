@@ -3,13 +3,14 @@
 
 ![Ranking Board 2016](./season-ranking.png)
 
-<br>
 
 ## Overview
 
 | ID  |  Date      | Country     | Resort | Tour  | Level | Result |
 | :-- | :---:      | :---:	 | :---:  | :---: | :---: | :---:  |
 | #1  | 06/03/2016 | Switzerland | Nendaz | Junior| 2*    | 11/55  |
+
+<br>
 
 ## Links for Each Event
 ### Nendaz Freeride Junior 2016
