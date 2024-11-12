@@ -9,8 +9,8 @@
 | ID  | Country     | Resort | Tour  | Level |  Date      | Result | Points |
 | :-- | :---:	    | :---:  | :---: | :---: |  :---:     | :---:  | :---:  |
 | #1  | Switzerland | Nendaz | Junior| 2*    | 06/03/2016 | 11/55  | 160    |
-|     |             |        |       |       |            |        |        |
-| Total Season Points (3 Best Events) : **160pts**			    |
+
+Total Season Points (3 Best Events) : **160pts**			    
  
 <br>
 
