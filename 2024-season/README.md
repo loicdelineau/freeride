@@ -1,6 +1,7 @@
 # 2023-2024 Ski Season
-[FWT Overall Season Ranking](https://www.freerideworldtour.com/qualifier/rankings/ski-men/?region=europe-asia-oceania&season=2024): **233st European Ski Men Qualifier** \
-[Liveheats Overall Season Ranking](https://liveheats.com/fwtglobal/rankings?series=18306&division=167931): **233st European Ski Men Qualifier**
+**233st European Ski Men Qualifier**
+--> [FWT Overall Season Ranking](https://www.freerideworldtour.com/qualifier/rankings/ski-men/?region=europe-asia-oceania&season=2024) \
+--> [Liveheats Overall Season Ranking](https://liveheats.com/fwtglobal/rankings?series=18306&division=167931)
 
 ![Ranking Board 2024](./season-ranking.png)
 
@@ -9,10 +10,10 @@
 
 | ID  | Country     | Resort | Tour      | Level |  Date      | Score | Podium | FWT pts |
 | :-- | :---:	    | :---:  | :---:     | :---: |  :---:     | :---: | :---:  | :---:   |
-| #1  | Switzerland | Bruson | Qualifier | 2*    | 06/03/2016 | 68.67 | 10/44  | 167     |
-| #2  | Switzerland | Bruson | Qualifier | 2*    | 06/03/2016 | 56.00 | 25/53  | 106     |
-| #3  | France  | Le Dévoluy | Qualifier | 1*    | 06/03/2016 | ??.?? | 4/21   | 150     |
-| #4  | France     | Avoriaz | Qualifier | 2*    | 06/03/2016 | ??.?? | 28/52  | 100     |
+| #1  | Switzerland | Bruson | Qualifier | 2*    | 20/02/2024 | 68.67 | 10/44  | 167     |
+| #2  | Switzerland | Bruson | Qualifier | 2*    | 22/02/2024 | 56.00 | 25/53  | 106     |
+| #3  | France  | Le Dévoluy | Qualifier | 1*    | 13/03/2024 | ??.?? | 4/21   | 150     |
+| #4  | France     | Avoriaz | Qualifier | 2*    | 25/03/2024 | ??.?? | 28/52  | 100     |
 
 Total FWT Season Points (3 Best Events) : **423pts**			    
  
@@ -39,4 +40,6 @@ Total FWT Season Points (3 Best Events) : **423pts**
 - [Liveheats Results Page](https://liveheats.com/events/177423/divisions/333880)
 - [Notes](./notes/avoriaz/README.md)
 
+
+[Overview of All Seasons](../README.md)
 
