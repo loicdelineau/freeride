@@ -19,7 +19,7 @@ Total Season Points (3 Best Events) : **160pts**
 
 - [FWT Event Page](https://www.freerideworldtour.com/junior/events/2016-nendaz-freeride-junior/)
 - [Video of Run](https://www.youtube.com/watch?v=JUA-ru_huqk)
-- [Notes]()
+- [Notes](./notes/README.md)
 
 
 
