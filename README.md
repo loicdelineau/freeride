@@ -1,5 +1,5 @@
 # Freeride Competitions - Overview of all Seasons
-
+## Lifelong Overview
 | Year |    Tour   | Nb Comps | FWT pts | European Ranking |
 | :--  |    :---:  |  :---:   | :---:   |     :---:        |
 | 2016 |    Junior |    1     |   160   |      161st       |
@@ -13,9 +13,7 @@
 | 2024 | Qualifier |    4     |   423   |      233rd       | 
 | 2025 | Qualifier |   ...    |   ...   |      ...         | 
 
-Total Season Points (3 Best Events) : **160pts**			    
-
-# 2015-2016 Ski Season
+## 2015-2016 Ski Season
 **161st Junior U17 Category** [(link)](https://www.freerideworldtour.com/junior/rankings/ski-men/?region=europe-asia-oceania&season=2016)
 
 ![Ranking Board 2016](./2016-season/season-ranking.png)
