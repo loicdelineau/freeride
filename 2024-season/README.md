@@ -1,5 +1,5 @@
 # 2023-2024 Ski Season
-**233st European Ski Men Qualifier**
+**233st European Ski Men Qualifier** \
 --> [FWT Overall Season Ranking](https://www.freerideworldtour.com/qualifier/rankings/ski-men/?region=europe-asia-oceania&season=2024) \
 --> [Liveheats Overall Season Ranking](https://liveheats.com/fwtglobal/rankings?series=18306&division=167931)
 
