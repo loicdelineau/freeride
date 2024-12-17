@@ -57,12 +57,11 @@ Total FWT Season Points (3 Best Events) : **423pts**
 | #1  | Switzerland | Nendaz   | Qualifier | 1*    | 04/01/2025 | ??.?? | ??/??  | ?     |
 | #2  | Switzerland | Verbier  | Qualifier | 2*    | 06/01/2025 | ??.?? | ??/??  | ?     |
 | #3  | Switzerland | Verbier  | Qualifier | 3*    | 08/01/2025 | ??.?? | ??/??  | ?     |
-| #4  | France      | Chamonix | Qualifier | 2*    | 25/01/2025 | ??.?? | ??/??  | ?     |
-| #5  | Switzerland | Bruson   | Qualifier | 2*    | 17/02/2025 | ??.?? | ??/??  | ?     |
-| #6  | Switzerland | Nendaz   | Qualifier | 2*    | 24/02/2025 | ??.?? | ??/??  | ?     |
-| #7  | Switzerland | Nendaz   | Qualifier | 3*    | 26/02/2025 | ??.?? | ??/??  | ?     |
-| #8  | France      | Bonneval | Qualifier | 3*    | 15/03/2025 | ??.?? | ??/??  | ?     |
-| #9  | France      | Valfrejus| Qualifier | 3*    | 19/03/2025 | ??.?? | ??/??  | ?     |
+| #4  | Switzerland | Bruson   | Qualifier | 2*    | 17/02/2025 | ??.?? | ??/??  | ?     |
+| #5  | Switzerland | Nendaz   | Qualifier | 2*    | 24/02/2025 | ??.?? | ??/??  | ?     |
+| #6  | Switzerland | Nendaz   | Qualifier | 3*    | 26/02/2025 | ??.?? | ??/??  | ?     |
+| #7  | France      | Bonneval | Qualifier | 3*    | 15/03/2025 | ??.?? | ??/??  | ?     |
+| #8  | France      | Valfrejus| Qualifier | 3*    | 19/03/2025 | ??.?? | ??/??  | ?     |
 
 Total FWT Season Points (3 Best Events) : **...pts**			    
 
