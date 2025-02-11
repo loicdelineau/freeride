@@ -67,10 +67,6 @@ Total FWT Season Points (3 Best Events) : **...pts**
 [Details of 2024-2025 Ski Season](./2025-season/README.md) 
 
 
-https://liveheats.com/events/286619/divisions/493637
-https://liveheats.com/events/286655/divisions/493658
-
-
 <br>
 
 

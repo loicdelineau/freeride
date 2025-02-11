@@ -26,47 +26,37 @@ Total FWT Season Points (3 Best Events) : **...pts**
 ## Links for Each Event
 ### #1 Nendaz 1*
 - [FWT Event Page](https://www.freerideworldtour.com/qualifier/events/2025-nendaz-freeride-qualifier-video-contest/)
-- [Liveheats Results Page]()
+- [Liveheats Results Page](https://liveheats.com/events/286619/divisions/493637)
 - [Notes](./notes/nendaz1/README.md)
 
 ### #2 Verbier 2*
 - [FWT Event Page](https://www.freerideworldtour.com/qualifier/events/2025-verbier-freeride-week-by-dynastar-qualifier/)
-- [Liveheats Results Page]()
+- [Liveheats Results Page](https://liveheats.com/events/286655/divisions/493658)
 - [Notes](./notes/verbier2/README.md)
 
-### #3 Verbier 3*
-- [FWT Event Page](https://www.freerideworldtour.com/qualifier/events/2025-verbier-freeride-week-by-dynastar-qualifier-2/)
-- [Liveheats Results Page]()
-- [Notes](./notes/verbier3/README.md)
-
-### #4 Chamonix 2*
-- [FWT Event Page](https://www.freerideworldtour.com/qualifier/events/2025-evolution-2-freeride-series-chamonix-qualifier/)
-- [Liveheats Results Page]()
-- [Notes](./notes/chamonix2/README.md)
-
-### #5 Bruson 2*
+### #3 Bruson 2*
 - [FWT Event Page](https://www.freerideworldtour.com/qualifier/events/2025-no-limits-bruson-freeride-week-qualifier/)
-- [Liveheats Results Page]()
+- [Liveheats Results Page](https://liveheats.com/events/286664)
 - [Notes](./notes/bruson2/README.md)
 
-### #6 Nendaz 2*
+### #4 Nendaz 2*
 - [FWT Event Page](https://www.freerideworldtour.com/qualifier/events/2025-nendaz-freeride-qualifier/)
-- [Liveheats Results Page]()
+- [Liveheats Results Page](https://liveheats.com/events/286694)
 - [Notes](./notes/nendaz2/README.md)
 
-### #7 Nendaz 3*
+### #5 Nendaz 3*
 - [FWT Event Page](https://www.freerideworldtour.com/qualifier/events/2025-nendaz-freeride-qualifier-3/)
-- [Liveheats Results Page]()
+- [Liveheats Results Page](https://liveheats.com/events/286695)
 - [Notes](./notes/nendaz3/README.md)
 
-### #8 Bonneval 3*
+### #6 Bonneval 3*
 - [FWT Event Page](https://www.freerideworldtour.com/qualifier/events/2025-french-freeride-series-bonneval-sur-arc-qualifier/)
-- [Liveheats Results Page]()
+- [Liveheats Results Page](https://liveheats.com/events/297118)
 - [Notes](./notes/bonneval3/README.md)
 
-### #9 Valfrejus 3*
+### #7 Valfrejus 3*
 - [FWT Event Page](https://www.freerideworldtour.com/qualifier/events/2025-french-freeride-series-valfrejus-qualifier/)
-- [Liveheats Results Page]()
+- [Liveheats Results Page](https://liveheats.com/events/295034)
 - [Notes](./notes/valfrejus3/README.md)
 
 ## Go back
