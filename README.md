@@ -54,19 +54,23 @@ Total FWT Season Points (3 Best Events) : **423pts**
 
 | ID  | Country     | Resort   | Tour      | Level |  Date      | Score | Podium | FWT pts |
 | :-- | :---:	    | :---:    | :---:     | :---: |  :---:     | :---: | :---:  | :---:   |
-| #1  | Switzerland | Nendaz   | Qualifier | 1*    | 04/01/2025 | ??.?? | ??/??  | ?     |
-| #2  | Switzerland | Verbier  | Qualifier | 2*    | 06/01/2025 | ??.?? | ??/??  | ?     |
-| #3  | Switzerland | Verbier  | Qualifier | 3*    | 08/01/2025 | ??.?? | ??/??  | ?     |
-| #4  | Switzerland | Bruson   | Qualifier | 2*    | 17/02/2025 | ??.?? | ??/??  | ?     |
-| #5  | Switzerland | Nendaz   | Qualifier | 2*    | 24/02/2025 | ??.?? | ??/??  | ?     |
-| #6  | Switzerland | Nendaz   | Qualifier | 3*    | 26/02/2025 | ??.?? | ??/??  | ?     |
-| #7  | France      | Bonneval | Qualifier | 3*    | 15/03/2025 | ??.?? | ??/??  | ?     |
-| #8  | France      | Valfrejus| Qualifier | 3*    | 19/03/2025 | ??.?? | ??/??  | ?     |
+| #1  | Switzerland | Nendaz   | Qualifier | 1*    | 04/01/2025 | 70.33 | 3/22   | 185     |
+| #2  | Switzerland | Verbier  | Qualifier | 2*    | 06/01/2025 | 52.00 | 34/47  | 90      |
+| #3  | Switzerland | Bruson   | Qualifier | 2*    | 17/02/2025 | ??.?? | ??/??  | ?     |
+| #4  | Switzerland | Nendaz   | Qualifier | 2*    | 24/02/2025 | ??.?? | ??/??  | ?     |
+| #5  | Switzerland | Nendaz   | Qualifier | 3*    | 26/02/2025 | ??.?? | ??/??  | ?     |
+| #6  | France      | Bonneval | Qualifier | 3*    | 15/03/2025 | ??.?? | ??/??  | ?     |
+| #7  | France      | Valfrejus| Qualifier | 3*    | 19/03/2025 | ??.?? | ??/??  | ?     |
 
 Total FWT Season Points (3 Best Events) : **...pts**			    
 
 [Details of 2024-2025 Ski Season](./2025-season/README.md) 
- 
+
+
+https://liveheats.com/events/286619/divisions/493637
+https://liveheats.com/events/286655/divisions/493658
+
+
 <br>
 
 
