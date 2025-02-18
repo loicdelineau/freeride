@@ -12,7 +12,7 @@
 | :-- | :---:       | :---:    | :---:     | :---: |  :---:     | :---: | :---:  | :---:   |
 | #1  | Switzerland | Nendaz   | Qualifier | 1*    | 04/01/2025 | 70.33 | 3/22   | 185     |
 | #2  | Switzerland | Verbier  | Qualifier | 2*    | 06/01/2025 | 52.00 | 34/47  | 90      |
-| #3  | Switzerland | Bruson   | Qualifier | 2*    | 17/02/2025 | ??.?? | ??/??  | ?     |
+| #3  | Switzerland | Bruson   | Qualifier | 2*    | 17/02/2025 | 00.55 | 30/35  | ?     |
 | #4  | Switzerland | Nendaz   | Qualifier | 2*    | 24/02/2025 | ??.?? | ??/??  | ?     |
 | #5  | Switzerland | Nendaz   | Qualifier | 3*    | 26/02/2025 | ??.?? | ??/??  | ?     |
 | #6  | France      | Bonneval | Qualifier | 3*    | 15/03/2025 | ??.?? | ??/??  | ?     |
@@ -36,7 +36,7 @@ Total FWT Season Points (3 Best Events) : **...pts**
 
 ### #3 Bruson 2*
 - [FWT Event Page](https://www.freerideworldtour.com/qualifier/events/2025-no-limits-bruson-freeride-week-qualifier/)
-- [Liveheats Results Page](https://liveheats.com/events/286664)
+- [Liveheats Results Page](https://liveheats.com/events/286664/divisions/493701)
 - [Notes](./notes/bruson2/README.md)
 
 ### #4 Nendaz 2*
